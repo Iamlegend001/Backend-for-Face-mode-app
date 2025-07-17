@@ -1,0 +1,7 @@
+{
+  "editor.tokenColorCustomizations": {
+    "comments": "#5be4bf",
+    "textMateRules": []
+  },
+  "postman.settings.dotenv-detection-notification-visibility": false
+}
